@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Zac Distant</h1>
+
+![banner for github](https://user-images.githubusercontent.com/90347734/141535193-22393bb9-17c0-4f20-8ef2-2efe939c9f34.jpg)
+
+
+
 <h3 align="center">An aspiring software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zd12t4nt&label=Profile%20views&color=0e75b6&style=flat" alt="zd12t4nt" /> </p>
