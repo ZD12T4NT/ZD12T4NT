@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zd12t4nt" alt="zd12t4nt" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@zacdistant" target="blank"><img src="https://img.shields.io/twitter/follow/@zacdistant?logo=twitter&style=for-the-badge" alt="@zacdistant" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@zacdistant" target="blank"><img src="https://img.shields.io/twitter/follow/@ZacDistant?logo=twitter&style=for-the-badge" alt="@ZacDistant" /></a> </p>
 
 - 🔭 I’m currently working on **Building websites and Apps**
 
