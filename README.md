@@ -1,7 +1,4 @@
 
-![banner for github]![Black and Light Blue Classic Black and Neon Electronics and Appliances Banner](https://user-images.githubusercontent.com/90347734/156251364-c56e586e-1a65-486f-bab4-12b647accf23.png)
-
-
 
 
 <h3 align="center">An aspiring software engineer</h3>
